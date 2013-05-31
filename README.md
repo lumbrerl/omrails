@@ -1,3 +1,3 @@
-== Welcome to OMRails Application
+== Welcome to rbonrails
 
-This project is to create a Ruby on Rails application.
+This is a sample web project on Ruby on Rails.
